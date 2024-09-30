@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scaler-Task Submission
 ### Interview Creation Portal [(Link)](https://scaler-task.herokuapp.com/)
 
@@ -38,3 +39,6 @@
 ## References
 * https://docs.djangoproject.com/en/3.2/
 * https://www.analyticsvidhya.com/blog/2020/10/step-by-step-guide-for-deploying-a-django-application-using-heroku-for-free/
+=======
+# SCALAR-TASK-MAIN
+>>>>>>> 1556337b615a5220aa735c035adf33545e0a678b
